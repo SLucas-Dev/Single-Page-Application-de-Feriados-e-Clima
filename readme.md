@@ -22,8 +22,8 @@ BrasilAPI
 OpenWeatherMap
  – Consulta de clima em tempo real
 
-📂 Estrutura do projeto
-📁 spa-feriados-clima
+📂 Estrutura do projeto <br>
+📁 spa-feriados-clima <br>
 │── index.html      # Página principal
 │── style.css       # Estilos
 │── app.js          # Lógica da aplicação (requisições AJAX e renderização)
