@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SPA de Feriados e Clima</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+</head>
+<body>
+    <header>
+        <h1>SPA: Feriados & Clima</h1>
+    </header>
+
+    <main>
+        <section class="container">
+            <div class="form-card">
+                <h2>Consulta de Feriados</h2>
+                <input type="number" id="idAno" placeholder="Digite o ano">
+                <button id="btnFeriados">Pesquisar</button>
+                <div id="resultadoFeriados"></div>
+            </div>
+
+            <div class="form-card">
+                <h2>Consulta de Clima</h2>
+                <input type="text" id="cidade" placeholder="Digite a cidade">
+                <button id="btnClima">Pesquisar</button>
+                <div id="resultadoClima"></div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Single Page Application de Feriados e Clima</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
