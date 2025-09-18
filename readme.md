@@ -24,9 +24,9 @@ OpenWeatherMap
 
 📂 Estrutura do projeto <br>
 📁 spa-feriados-clima <br>
-│── index.html      # Página principal
-│── style.css       # Estilos
-│── app.js          # Lógica da aplicação (requisições AJAX e renderização)
+│── index.html      # Página principal <br>
+│── style.css       # Estilos <br>
+│── app.js          # Lógica da aplicação (requisições AJAX e renderização) <br>
 
 🖼️ Demonstração
 
